@@ -1,0 +1,46 @@
+div{
+    margin-top: -209px;
+}
+    
+
+
+.A {
+    height: 70px;
+    width: 100px;
+background-color:#009543;
+clip-path: polygon(0 0, 62% 0, 65% 0, 0 94%);
+float: left;
+
+
+}
+.B {
+    height: 70px;
+    width: 100px;
+    background-color:#FBDE4A;
+    clip-path: polygon(59% 0%, 94% 0, 35% 95%, 0 94%);
+ 
+
+}
+
+.C {
+    height: 80px;
+    width: 100px;
+    background-color:#DC241F;
+    /* clip-path: polygon(100% 0, 100% 0, 100% 100%, 30% 90%); */
+    position: absolute;
+    clip-path: polygon(103% 5%, 33% 92%, 100% 90%);
+    left: 90px;
+    margin-top: -77PX;
+    margin-left: -88PX;
+ 
+}  
+         #pole{
+            width: 3px;
+            height: 390px;
+            border-radius: 50px;
+            background-color:lightseagreen;
+         }           
+         h6{
+            margin: 10px;
+            margin-left: 15px;
+         }                                                                                                                                      

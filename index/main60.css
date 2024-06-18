@@ -1,0 +1,32 @@
+
+.flag {
+   
+    margin: 100px;
+ 
+}
+
+.container{
+    background-color:green;
+    width: 600px;
+    height: 500px;
+}
+
+
+.A {
+    height: 100px;
+    width: 370px;
+background-color: #C21815;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+
+}
+.B {
+    height: 100px;
+    width: 370px;
+    background-color:#F0F0F0;
+    border-end-end-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+h2{
+    color:white;
+}

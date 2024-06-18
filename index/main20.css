@@ -1,0 +1,24 @@
+* {
+    margin-left: 90px;
+    padding-top: 30px;
+}
+.h2{
+    text-align: bottom;
+}
+.A {
+    height: 70px;
+    width: 400px;
+background-color: #A41C28;
+
+}
+.B {
+    height: 70px;
+    width: 400px;
+    background-color:#BABABA;
+}
+
+.C {
+    height: 70px;
+    width: 400px;
+    background-color:#001258;
+}

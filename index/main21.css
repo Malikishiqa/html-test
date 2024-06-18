@@ -1,0 +1,36 @@
+
+.flag{
+   display: flex;
+   justify-content: center;
+   margin-top: 200px;
+}
+.A {
+    height: 300px;
+    width: 100px;
+    background-color:#231F20;
+   
+
+}
+
+.B {
+    height: 300px;
+    width: 100px;
+background-color:#FFF200;
+    
+
+
+}
+
+.C {
+    height: 300px;
+    width: 100px;
+    background-color:#ED1C24;
+  
+    
+
+} 
+h2{
+    position: absolute;
+    left: 540px;
+ top: 490px;
+}
